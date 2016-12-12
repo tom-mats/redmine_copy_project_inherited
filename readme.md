@@ -7,6 +7,7 @@ User can select a ticket relation(parent-child relation/general relation) from t
 * Create new related tickets based on previous tickets.
 * Do not keep any relation.
 
+model_project_copy_before_save hook will be used.
 
 ## License
 
